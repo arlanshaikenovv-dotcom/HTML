@@ -4,5 +4,7 @@ color: black;
 
 h1{color: blue;}
 h2{color: red;}
-.MCB{color:blue}
-.MCR{color: red;}
+.MCB{color:blue; background-color: red;}
+.MCR{color: red; background-color: blue;}
+#NMC{color: violet; background-color: deeppink;}
+li{color:black; background-color: white;}
