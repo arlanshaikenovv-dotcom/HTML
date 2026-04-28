@@ -1,6 +1,6 @@
-.box1 {width: 70x; height: 100px; background-color: red;font-size: 50px;}
-.box {width: 150%; height: 125%; background-color: blue;font-size: 2em;}
-
-
-.newdiv {background-color: #FF5080; width: 10vw; height: 50vh;color: rgba(255, 255, 255, 1);}
-.newdiv1 {background-color:rgba(255, 75, 110, 0.8);width: 10vw; height: 50vh; color: #FFFFFF;}
+.box1 {width: 70x; height: 100px; background-color: red;font-size: 50px;text-align: center;}
+.box {width: 150%; height: 125%; background-color: blue;font-size: 2em; text-align: center;}
+body {background-image:url(R.jpg) ;}
+.newdiv {background-color: #FF5080; width: 10vw; height: 15vh;color: rgba(255, 255, 255, 1); text-align: center;}
+.newdiv1 {background-color:rgba(255, 75, 110, 0.8);width: 5vw; height: 10vh; color: #FFFFFF; text-align: center;}
+.center{text-align: center;}
