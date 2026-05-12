@@ -1,0 +1,19 @@
+.mouse:hover{background-color: blue;}
+.input:focus{border: 15px solid;
+   border-color: red;
+}
+
+.first li:first-child{color: blue;}
+.last li:last-child{color: red;}
+
+.list-item p:nth-child(odd) {
+   color: orange;
+}
+
+.llist-item:nth-child(even) {
+   color: pink;
+}
+.mouse2:hover{color:red}
+
+.first2 li:first-child:hover{color: lightblue;}
+.last2 button:last-child:focus{background-color: aquamarine;}
