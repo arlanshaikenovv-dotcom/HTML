@@ -1,0 +1,23 @@
+.block{display: block; background-color: aqua;}
+.inline{display: inline; background-color: aquamarine;}
+.flex{display: flex; background-color: blue;}
+.container{display: flex;}
+.non-container{display: block;}
+.flex-container{display: flex; flex-flow: column wrap;justify-content: center; align-items: flex-end; align-content: stretch;}
+.pro-container{display: flex; justify-content: center; align-items: flex-end; align-content: stretch;}
+.Monesy{flex-grow:1 ; flex-shrink: 1; flex-basis:100px ; background-color: fuchsia;}
+.Laporta{flex-grow:2 ; flex-shrink:2 ; flex-basis:200px ; background-color: red;}
+.Canada{flex-grow: 3; flex-shrink: 3; flex-basis: 3; background-color: rgb(174, 0, 255);}
+.MF{flex: 1 1 100px;}
+.MD{flex: 2 2 200px;}
+.MC{flex: 3 3 300px;}
+.half{flex-basis: 50%; background-color: aquamarine;}
+.situational{flex-basis: auto; background-color: aliceblue;}
+.static{flex-basis: 250px; background-color: black; color: crimson}
+.flex1{display: flex;}
+.flex2{display: flex;justify-content: space-evenly; align-items: center;}
+.flex3{display: flex;justify-content: center; align-items:center ; flex-direction: column;}
+.flex4{display: flex;background-color: black;justify-content: space-evenly;flex-direction: row;}
+.flex-basket{display: flex; background-color: rgba(255, 166, 0, 0.459); flex-direction: column; justify-content: space-evenly;}
+.flex-skiing{display: flex; background-color: rgba(240, 248, 255, 0.479);flex-direction: column;justify-content: space-evenly;}
+.flex-tennis{display: flex;background-color: rgba(255, 0, 0, 0.39);flex-direction: column;justify-content: space-evenly;}
